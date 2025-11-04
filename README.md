@@ -1,2 +1,4 @@
 # Shrishti_demo
-This is my first Git repository. -- Shrishti Parinita 
+This is my first Git repository. 
+  <br>
+Shrishti Parinita 
